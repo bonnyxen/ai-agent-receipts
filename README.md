@@ -2,6 +2,8 @@
 
 # AI Agent Receipts
 
+[![tests](https://github.com/bonnyxen/ai-agent-receipts/actions/workflows/tests.yml/badge.svg)](https://github.com/bonnyxen/ai-agent-receipts/actions/workflows/tests.yml)
+
 A tiny, testable inbox agent that turns a customer message into an evidence-backed draft for human review.
 
 Most agent demos show the answer. This one also shows where the answer came from, what is still unknown, and what should stop the draft from moving forward.
