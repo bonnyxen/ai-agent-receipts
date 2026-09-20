@@ -1,0 +1,16 @@
+{
+  "name": "Maya",
+  "need": "A landing page for a new coffee shop",
+  "evidence_quotes": [
+    "opening a small coffee shop in October",
+    "a landing page",
+    "I have photos, but no copy yet"
+  ],
+  "unknowns": [
+    "Whether the menu and opening hours are final",
+    "Whether Maya wants help writing the copy"
+  ],
+  "risk_flags": [],
+  "draft_reply": "Hi Maya, the landing page sounds like a great way to give people one place to find the menu, hours, and mailing list before you open. We work on landing pages and could look at what you have so far. Are the menu and opening hours final yet, and would you want help with the page copy? If you send over the photos and any notes, I can review the scope with you.",
+  "decision": "review"
+}
